@@ -5,8 +5,11 @@ Projeto de **Machine Learning** desenvolvido para o CP02 de SERS, com duas taref
 # Integrantes:
 
 Gabriel Camarosani Gouvea Gonçalves da Silva — RM 569189
+
 Gustavo Lima Andrade Santos — RM 571709
+
 Gabriel Carvalho - RM 571381
+
 Guilherme Cedro Teixeira - RM 571050
 
 ## Objetivo
