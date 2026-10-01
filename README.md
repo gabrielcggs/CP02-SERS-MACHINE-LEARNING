@@ -2,6 +2,13 @@
 
 Projeto de **Machine Learning** desenvolvido para o CP02 de SERS, com duas tarefas: **classificação de fontes de geração de energia** e **regressão da radiação solar**.
 
+# Integrantes:
+
+Gabriel Camarosani Gouvea Gonçalves da Silva — RM 569189
+Gustavo Lima Andrade Santos — RM 571709
+Gabriel Carvalho - RM 571381
+Guilherme Cedro Teixeira - RM 571050
+
 ## Objetivo
 
 O projeto aplica algoritmos de aprendizado de máquina a dois problemas relacionados ao setor de energia:
